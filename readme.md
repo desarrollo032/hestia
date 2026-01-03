@@ -1,73 +1,82 @@
-# Hestia Pro #
-**Contributors:** [themeisle](https://profiles.wordpress.org/themeisle)  
-**Tags:** blog, custom-logo, portfolio, e-commerce, rtl-language-support, post-formats, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, editor-style, footer-widgets, left-sidebar, right-sidebar, wide-blocks  
-**Requires at least:** 4.0  
-**Tested up to:** 5.8.2  
-**Stable tag:** 3.3.3  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+# 🌟 Hestia Pro #
 
-Hestia Pro fits all business, startups, corporate businesses, online companies, portfolios, e-commerce (WooCommerce), and freelancers.
+---
 
-## Description ##
-Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design.
+**✍️ Colaboradores:** [themeisle](https://profiles.wordpress.org/themeisle)  
+**🏷️ Etiquetas:** blog, logo-personalizado, portafolio, comercio-electrónico, soporte-idioma-rtl, formatos-publicación, diseño-rejilla, una-columna, dos-columnas, fondo-personalizado, colores-personalizados, encabezado-personalizado, menú-personalizado, imagen-destacada-encabezado, imagenes-destacadas, encabezado-flexible, plantilla-ancho-completo, entrada-destacada, opciones-tema, comentarios-hilos, listo-para-traducción, estilo-editor, widgets-pie-página, barra-lateral-izquierda, barra-lateral-derea, bloques-anchos  
+**⬇️ Requiere al menos:** 4.0  
+**✅ Probado hasta:** 5.8.2  
+**🔖 Versión estable:** 3.3.3  
+**📜 Licencia:** GPLv2 o posterior  
+**🔗 URI de licencia:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-## Copyright ##
-Hestia WordPress theme, Copyright 2018 Themeisle.
-Hestia is distributed under the terms of the GNU GPLv2 or later
+---
 
-## Changelog ##
+## 📝 Descripción ##
 
-##### [Version 3.3.3](https://github.com/Codeinwp/hestia-pro/compare/v3.3.2...v3.3.3) (2025-09-04)
+Hestia Pro se adapta a todo tipo de negocios, startups, empresas corporativas, compañías en línea, portafolios, comercio electrónico (WooCommerce) y freelancers.
 
-- Updated dependencies
+Hestia es un tema moderno de WordPress para profesionales. Se adapta a negocios creativos, pequeños negocios (restaurantes, planificadores de bodas, tiendas deportivas/médicas), startups, empresas corporativas, agencias y firmas en línea, portafolios, comercio electrónico (WooCommerce) y freelancers. Tiene un diseño multipropósito de una página, pie de página con widgets, página de blog/noticias y un aspecto limpio. Es compatible con: Flat Parallax Slider, Photo Gallery, Travel Map y Elementor Page Builder. El tema es adaptable, WPML, preparado para Retina, SEO amigable y utiliza Material Kit para el diseño.
 
+---
 
+## ©️ Derechos de Autor ##
 
+Tema WordPress Hestia, Copyright 2018 Themeisle.
+Hestia se distribuye bajo los términos de la GNU GPLv2 o posterior
 
-##### [Version 3.3.2](https://github.com/Codeinwp/hestia-pro/compare/v3.3.1...v3.3.2) (2025-08-11)
+---
 
-- Fixed issue with domains ending with x.com being converted to X icon
+## 📋 Registro de Cambios (Changelog) ##
 
+##### [Versión 3.3.3](https://github.com/Codeinwp/hestia-pro/compare/v3.3.2...v3.3.3) (2025-09-04)
 
-
-
-##### [Version 3.3.1](https://github.com/Codeinwp/hestia-pro/compare/v3.3.0...v3.3.1) (2025-07-24)
-
-- Fixed the fourth Shop Sidebar option not working
-- Updated dependencies
+- Actualizado dependencias
 
 
 
 
-#### [Version 3.3.0](https://github.com/Codeinwp/hestia-pro/compare/v3.2.11...v3.3.0) (2025-07-21)
+##### [Versión 3.3.2](https://github.com/Codeinwp/hestia-pro/compare/v3.3.1...v3.3.2) (2025-08-11)
 
-### New Features
+- Corregido problema con dominios que terminan en x.com siendo convertidos a icono X
 
-- New option to update the post meta on the Blog and Single post pages [PRO]
-- New WooCommerce options to reorder/hide single product page elements [PRO]
-- New WooCommerce options to show/hide Breadcrumbs and Product Tabs on single product page [PRO]
-- New dedicated color controls in the Footer area [PRO]
-- New Scroll to Top advanced options [PRO]
-- Added Social icons support to the Primary and Footer menus
-- New option to change the Read more text on the Blog page
-- New option to Show/Hide categories and tags on the Single post page
-- New option to Show/Hide Related Posts on the Single post page
-- Moved all Hestia options under one WP dashboard menu item
-- Moved License field to Hestia PRO Options page [PRO]
-- Better organized crowded Customizer options
-- Brought in all header options in one panel for better visibility
-- Refactored colors control in Customizer
 
-### Fixes
 
-- Better organized WooCommerce options [PRO]
-- Added scroll to top button title for accessibility
-- Fixed the double arrow in the menu when the Font Awesome plugin is enabled
-- Fixed issue with clicking to install Jetpack or WooCommerce from Frontpage sections breaking the Customizer
-- Fixed the recommended plugins notice position in Customizer
-- Fixed issue with migrating the Big Title Section to the PRO version
-- Fixed issue with the Fitness Starter Site requiring wrong plugin
+
+##### [Versión 3.3.1](https://github.com/Codeinwp/hestia-pro/compare/v3.3.0...v3.3.1) (2025-07-24)
+
+- Corregida la cuarta opción de Barra Lateral de Tienda que no funcionaba
+- Actualizado dependencias
+
+
+#### [Versión 3.3.0](https://github.com/Codeinwp/hestia-pro/compare/v3.2.11...v3.3.0) (2025-07-21)
+
+### ✨ Nuevas Funcionalidades
+
+- Nueva opción para actualizar el meta de las publicaciones en las páginas del Blog y de Publicación Individual [PRO]
+- Nuevas opciones de WooCommerce para reorganizar/ocultar elementos de la página de producto individual [PRO]
+- Nuevas opciones de WooCommerce para mostrar/ocultar Breadcrumbs y Pestañas de producto en la página de producto individual [PRO]
+- Nuevos controles de color dedicados en el área del Pie de Página [PRO]
+- Nuevas opciones avanzadas de Scroll to Top [PRO]
+- Añadido soporte de iconos sociales a los menús Primario y de Pie de Página
+- Nueva opción para cambiar el texto de "Leer más" en la página del Blog
+- Nueva opción para Mostrar/Ocultar categorías y etiquetas en la página de Publicación Individual
+- Nueva opción para Mostrar/Ocultar Publicaciones Relacionadas en la página de Publicación Individual
+- Movidas todas las opciones de Hestia bajo un elemento del menú del panel de WordPress
+- Movido el campo de Licencia a la página de Opciones de Hestia PRO [PRO]
+- Mejor organización de las opciones congestionadas del Personalizador
+- Traídas todas las opciones de encabezado en un panel para mejor visibilidad
+- Refactorizado el control de colores en el Personalizador
+
+### 🐛 Correcciones
+
+- Mejor organizadas las opciones de WooCommerce [PRO]
+- Añadido título del botón de scroll to top para accesibilidad
+- Corregida la doble flecha en el menú cuando el plugin Font Awesome está habilitado
+- Corregido problema al hacer clic para instalar Jetpack o WooCommerce desde las secciones de Frontpage que rompían el Personalizador
+- Corregida la posición del notice de plugins recomendados en el Personalizador
+- Corregido problema al migrar la Sección de Big Title a la versión PRO
+- Corregido problema con el Starter Site de Fitness que requería el plugin incorrecto
 
 
 
