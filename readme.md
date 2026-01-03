@@ -81,371 +81,303 @@ Hestia se distribuye bajo los términos de la GNU GPLv2 o posterior
 
 
 
-##### [Version 3.2.11](https://github.com/Codeinwp/hestia-pro/compare/v3.2.10...v3.2.11) (2025-06-23)
+##### [Versión 3.2.11](https://github.com/Codeinwp/hestia-pro/compare/v3.2.10...v3.2.11) (2025-06-23)
 
-- Enhanced security
+- Mejorada la seguridad
 
 
+##### [Versión 3.2.10](https://github.com/Codeinwp/hestia-pro/compare/v3.2.9...v3.2.10) (2025-05-23)
 
+- Actualizado dependencias
 
-##### [Version 3.2.10](https://github.com/Codeinwp/hestia-pro/compare/v3.2.9...v3.2.10) (2025-05-23)
 
-- Updated dependencies
+##### [Versión 3.2.9](https://github.com/Codeinwp/hestia-pro/compare/v3.2.8...v3.2.9) (2025-04-15)
 
+- Corregido problema de espaciado con los botones
+- Corregido problema de compatibilidad con Jetpack Portfolio
+- Actualizado dependencias
 
 
+##### [Versión 3.2.8](https://github.com/Codeinwp/hestia-pro/compare/v3.2.7...v3.2.8) (2025-02-05)
 
-##### [Version 3.2.9](https://github.com/Codeinwp/hestia-pro/compare/v3.2.8...v3.2.9) (2025-04-15)
+- Corregida la carga de paquetes de idioma
 
-- Fixed gap spacing issue with buttons
-- Fixed compatibility issue with Jetpack Portfolio
-- Updated dependencies
 
+##### [Versión 3.2.7](https://github.com/Codeinwp/hestia-pro/compare/v3.2.6...v3.2.7) (2024-12-09)
 
+- Corregido problema de visualización de opciones de Big Title
+- Corregido el diseño roto del personalizador introducido por el plugin LearnPress
+- Corregido el problema de la sección de Suscriptores en la vista previa del personalizador
 
 
-##### [Version 3.2.8](https://github.com/Codeinwp/hestia-pro/compare/v3.2.7...v3.2.8) (2025-02-05)
+##### [Versión 3.2.6](https://github.com/Codeinwp/hestia-pro/compare/v3.2.5...v3.2.6) (2024-11-22)
 
-- Fix language pack loading
+- Corregido problema con el campo de clave de licencia y el botón de rollback que no aparecían
+- Corregido problema con los iconos que desaparecían de la sección Destacada
+- Corregido problema con las secciones de elementos del menú y Widgets que faltaban y el menú móvil roto
 
 
+##### [Versión 3.2.5](https://github.com/Codeinwp/hestia-pro/compare/v3.2.4...v3.2.5) (2024-11-21)
 
+- Corregido problema de compatibilidad con WordPress 6.7 que mostraba advertencias en las traducciones
 
-##### [Version 3.2.7](https://github.com/Codeinwp/hestia-pro/compare/v3.2.6...v3.2.7) (2024-12-09)
 
-- Fixed the Big Title options display issue
-- Fix the customizer broken layout introduced by the LearnPress plugin
-- Fixed the Subscriber section issue in the customizer preview
+##### [Versión 3.2.4](https://github.com/Codeinwp/hestia-pro/compare/v3.2.3...v3.2.4) (2024-11-18)
 
+- Corregido el problema de compatibilidad de la sección Big Title con WordPress 6.7
+- Corregido el estilo del botón Leer Más
 
 
+##### [Versión 3.2.3](https://github.com/Codeinwp/hestia-pro/compare/v3.2.2...v3.2.3) (2024-11-11)
 
-##### [Version 3.2.6](https://github.com/Codeinwp/hestia-pro/compare/v3.2.5...v3.2.6) (2024-11-22)
+- Corregido el problema de scroll infinito del diseño del blog
+- Actualizado dependencias
 
-- Fixed issue with the License key field and rollback button not appearing
-- Fixed issue with Icons disappearing from the Featured section
-- Fixed issue with Menu items and Widgets sections missing and mobile menu breaking
 
+##### [Versión 3.2.2](https://github.com/Codeinwp/hestia-pro/compare/v3.2.1...v3.2.2) (2024-10-30)
 
+Mejoras
+- Añadidas más cadenas traducibles para mejorar la localización.
+Correcciones
+- Alineado el widget del carrito de compras en la barra superior.
+- Corregido el enlace de soporte para usuarios premium.
+- Actualizados los enlaces y texto de la página Acerca de.
 
 
-##### [Version 3.2.5](https://github.com/Codeinwp/hestia-pro/compare/v3.2.4...v3.2.5) (2024-11-21)
+##### [Versión 3.2.1](https://github.com/Codeinwp/hestia-pro/compare/v3.2.0...v3.2.1) (2024-10-10)
 
-- Fixed compatibility issue with WordPress 6.7 that was throwing warnings on translations
+- Corregido el diseño CSS del notice de bienvenida
+- Corregido el diseño de la pestaña de Introducción de la página Acerca de
+- Corregida la compatibilidad con el plugin de reservas de WooCommerce
 
 
+#### [Versión 3.2.0](https://github.com/Codeinwp/hestia-pro/compare/v3.1.10...v3.2.0) (2024-10-09)
 
+- Añadidos 3 nuevos sitios starter y eliminados los heredados
+- Añadida opción para activar la barra de navegación sticky
+- Nuevas opciones de color para la página de inicio
+- Añadido botón de edición junto a la sección junto al alternador de sección
+- Nueva configuración para alternar la sección de suscripción del blog
+- Nuevos patrones y categoría de patrones
+- Mejorada la velocidad de carga general
+- Mejorada la Experiencia de Usuario de la página Acerca de
+- Eliminado algo de CSS no utilizado
+- Corregido el contenido starter en la página de inicio que publica el onboarding
+- Renombrado el control de texto de la sección Big Title a Subtítulo
+- Corregido el diseño de comentarios con palabras largas
+- Corregida la visualización de embeds de TikTok
+- Ajustado el line-height para el área de widgets de la barra superior
+- Corregido el valor predeterminado para el icono del carrito de compras
+- Correcciones de estilo del control del personalizador
+- Mejorados el diseño y apariencia de los controles del personalizador
+- Reemplazado el enlace para compartir de Twitter por x.com
+- Corregidos los controles de video que aparecían al cargar el personalizador cuando el video no estaba habilitado
+- Corregido el problema de alineación de Gutenberg al redimensionar verticalmente la ventana
+- Reemplazada la etiqueta h6 para categorías con etiqueta span para tener una jerarquía de encabezados adecuada
+- Corregidas las inconsistencias de estilo de los botones de bloques de WooCommerce
+- Corregido el diseño de la página Mi Cuenta de WooCommerce
+- Activado el soporte del tema para los controles del editor principal
+- Actualizados los encabezados de la barra lateral del blog de h2 a h5 al activar el tema
+- Corregidos los estilos del widget de formulario de búsqueda
+- Corregido error en el módulo de white label
+- Cambiada la fuente predeterminada del cuerpo para nuevos usuarios
+- Reorganizado el flujo de activación del tema
+- Reorganizada la experiencia de onboarding y notice de bienvenida
 
-##### [Version 3.2.4](https://github.com/Codeinwp/hestia-pro/compare/v3.2.3...v3.2.4) (2024-11-18)
 
-- Fixed the Big Title section compatibility issue with WordPress 6.7
-- Fixed the Read More button style
 
 
+##### [Versión 3.1.10](https://github.com/Codeinwp/hestia-pro/compare/v3.1.9...v3.1.10) (2024-08-27)
 
+- Corregido un problema donde la opción de Mini Carrito aparecía incorrectamente en el personalizador
+- Corregido un problema con la encuesta de usuarios
+- Corregido un problema con la actualización de la vista previa del personalizador
 
-##### [Version 3.2.3](https://github.com/Codeinwp/hestia-pro/compare/v3.2.2...v3.2.3) (2024-11-11)
 
-- Fixed the blog layout infinite scroll issue
-- Updated dependencies
+##### [Versión 3.1.9](https://github.com/Codeinwp/hestia-pro/compare/v3.1.8...v3.1.9) (2024-07-15)
 
+- Eliminado el string CSS codificado que no estaba disponible para traducciones
+- Corregido problema de traducción de imágenes con WPML/PL
+- Actualizado dependencias para mejorar el rendimiento
 
 
+##### [Versión 3.1.8](https://github.com/Codeinwp/hestia-pro/compare/v3.1.7...v3.1.8) (2024-04-05)
 
-##### [Version 3.2.2](https://github.com/Codeinwp/hestia-pro/compare/v3.2.1...v3.2.2) (2024-10-30)
+### Mejoras
+- Actualizado dependencias internas
 
-Enhancements
-- Added more translatable strings for improved localization.
-Fixes
-- Aligned shopping cart widget in the top bar.
-- Fixed support link for premium users.
-- Updated About page links and text.
 
+##### [Versión 3.1.7](https://github.com/Codeinwp/hestia-pro/compare/v3.1.6...v3.1.7) (2024-04-01)
 
+### Mejoras
+- **Actualizado dependencias internas**
 
 
-##### [Version 3.2.1](https://github.com/Codeinwp/hestia-pro/compare/v3.2.0...v3.2.1) (2024-10-10)
+##### [Versión 3.1.6](https://github.com/Codeinwp/hestia-pro/compare/v3.1.5...v3.1.6) (2024-03-29)
 
-- Fix welcome notice CSS layout
-- Fix about page Getting Started tab layout
-- Fix compatibility with WooCommerce booking plugin
+### Correcciones
+- Actualizado dependencias internas
 
 
+##### [Versión 3.1.5](https://github.com/Codeinwp/hestia-pro/compare/v3.1.4...v3.1.5) (2024-03-28)
 
+### Mejoras
+- Actualizado dependencias internas
 
-#### [Version 3.2.0](https://github.com/Codeinwp/hestia-pro/compare/v3.1.10...v3.2.0) (2024-10-09)
 
-- Added 3 new starter sites and removed legacy ones
-- Added option to toggle sticky navbar
-- Added new color options for front page
-- Added section edit button beside section toggle
-- Added new setting to toggle blog subscribe section
-- Added new patterns and pattern category
-- Improved overall loading speed
-- Improved About page User Experience
-- Removed some unused CSS
-- Fixed starter content in the front page that onboarding publishes
-- Renamed Big title section Text control to Subtitle
-- Fixed layout of comments with long words
-- Fixed TikTok embeds display
-- Adjusted line-height for top bar widget area
-- Fixed default for shopping cart icon
-- Fixes customizer control style
-- Improved customizer controls layout and appearance
-- Replaced sharing link for Twitter with x.com
-- Fixed video controls appearing on customizer load when video not enabled
-- Fixed Gutenberg alignment issue on vertical window resize
-- Replaced h6 tag for categories with span tag to have a proper heading hierarchy
-- Fixed WooCommerce blocks buttons styling inconsistencies
-- Fixed WooCommerce My Account page layout
-- Enabled theme support for core editor controls
-- Updated blog sidebar headings from h2 to h5 on theme activation
-- Fixed search form widget styles
-- Fixed error in white label module
-- Changed default body font for new users
-- Reworked theme activation flow
-- Reworked onboarding and welcome notice
+##### [Versión 3.1.4](https://github.com/Codeinwp/hestia-pro/compare/v3.1.3...v3.1.4) (2024-02-27)
 
+### Corrección de Errores
+- Corregida la compatibilidad de WPML con diseños personalizados
 
+### Mejoras
+- Actualizado dependencias
+- Añadida NPS Survey
+- Preparación para la próxima campaña de BF
 
 
-##### [Version 3.1.10](https://github.com/Codeinwp/hestia-pro/compare/v3.1.9...v3.1.10) (2024-08-27)
+##### [Versión 3.1.3](https://github.com/Codeinwp/hestia-pro/compare/v3.1.2...v3.1.3) (2024-02-06)
 
-- Fixed an issue where the Mini Cart option appeared incorrectly in the customizer
-- Fixed an issue with the user survey
-- Fixed an issue with the customizer preview refresh
+### Correcciones
+- Seguridad mejorada
+- Actualizado dependencias
+- Corregida la carga de iconos personalizados de Font Awesome
 
 
+##### [Versión 3.1.2](https://github.com/Codeinwp/hestia-pro/compare/v3.1.1...v3.1.2) (2024-02-01)
 
+### Correcciones
+- Actualizado referencias de SendinBlue a Brevo 
+- Resuelto warning al verificar estilos 
+- Añadida verificación undefined para mutaciones de addViewCart
+- Seguridad Mejorada
 
-##### [Version 3.1.9](https://github.com/Codeinwp/hestia-pro/compare/v3.1.8...v3.1.9) (2024-07-15)
+### Mejoras
+- Añadido CTA en el Personalizador
 
-- Removed hardcoded CSS string which was not available for translations
-- Fixed image translation issue with WPML/PL
-- Updated dependencies to improve performance
 
+##### [Versión 3.1.1](https://github.com/Codeinwp/hestia-pro/compare/v3.1.0...v3.1.1) (2024-01-11)
 
+### Mejoras
+- Actualizado dependencias
+- Actualizado Twitter a icono X
+- Actualización a versión de Font Awesome 6
 
+### Corrección de Errores
+- Corregido problema de traducción de strings con WPML
+- Corregida alineación de coma y color en Categoría de WooCommerce en Tienda
+- Corregido problema de diseño de galería con lightbox
+- Corregido problema de contador de mini carrito
+- Corregido problema de compatibilidad de diseño personalizado con Polylang
+- Corregido problema de apertura de mega menú al redimensionar pantalla
+- Corregidos eventos de mutación obsoletos
+- Corregido problema de compatibilidad con Otter block
 
-##### [Version 3.1.8](https://github.com/Codeinwp/hestia-pro/compare/v3.1.7...v3.1.8) (2024-04-05)
 
-### Improvements
-- Updated internal dependencies
+#### [Versión 3.1.0](https://github.com/Codeinwp/hestia-pro/compare/v3.0.30...v3.1.0) (2023-08-29)
 
+- Mejorada la Experiencia de Onboarding con un nuevo Asistente de Configuración.
+- Añadidas Opciones de Personalización de Encabezado: Mostrar Menú en Móvil, Personalizar Icono de Carrito y Soporte de Encabezado Transparente para Otras Páginas.
+- Introducidos Nuevos Patrones de Página.
+- Permitida la Desactivación de Títulos de Página desde Opciones de Página Individual.
+- Añadida Opción para Mostrar el Título del Sitio Cerca del Logo.
+- Implementada Carga Local de Fuentes para Mejor Rendimiento.
+- Añadido Filtro para Enlaces No-Follow en la Sección de Barra de Clientes.
 
 
+##### [Versión 3.0.30](https://github.com/Codeinwp/hestia-pro/compare/v3.0.29...v3.0.30) (2023-06-15)
 
-##### [Version 3.1.7](https://github.com/Codeinwp/hestia-pro/compare/v3.1.6...v3.1.7) (2024-04-01)
+- Corregidos errores de Lighthouse
+- Corregida una etiqueta HTML errante en el Pie de Página
+- Corregido notice que no desaparecía
+- Corregidos errores de PHP con PHP 8.1
+- Corregido problema con la sección de Big Title bloqueada bajo ciertas condiciones
 
-### Improvements
-- **Updated internal dependencies**
 
+##### [Versión 3.0.29](https://github.com/Codeinwp/hestia-pro/compare/v3.0.28...v3.0.29) (2023-03-09)
 
+- Mejorar el proceso de lanzamiento
 
 
-##### [Version 3.1.6](https://github.com/Codeinwp/hestia-pro/compare/v3.1.5...v3.1.6) (2024-03-29)
+##### [Versión 3.0.28](https://github.com/Codeinwp/hestia-pro/compare/v3.0.27...v3.0.28) (2023-03-09)
 
-### Fixes
-- Updated internal dependencies
+- [Corrección] Conflicto con el plugin de optimizador de imágenes
+- [Corrección] Traducción del logo con Polylang
+- [Corrección] Problema de scroll to top
+- [Corrección] Reordenación de secciones de página de inicio
 
 
+##### [Versión 3.0.27](https://github.com/Codeinwp/hestia-pro/compare/v3.0.26...v3.0.27) (2023-01-10)
 
+- [Corrección] Problema con imagen de fondo de Big Title
 
-##### [Version 3.1.5](https://github.com/Codeinwp/hestia-pro/compare/v3.1.4...v3.1.5) (2024-03-28)
 
-### Improvements
-- Updated internal dependencies
+##### [Versión 3.0.26](https://github.com/Codeinwp/hestia-pro/compare/v3.0.25...v3.0.26) (2023-01-05)
 
+- [Características] Filtrar publicaciones relacionadas por categoría principal de Yoast
+- [Corrección] Problema de renderizado de sección Big Title
+- [Corrección] Selector de Color de Botón no funciona
+- [Corrección] Problemas de SEO con ancho/alto de imagen explícito
 
 
+##### [Versión 3.0.25](https://github.com/Codeinwp/hestia-pro/compare/v3.0.24...v3.0.25) (2022-12-20)
 
-##### [Version 3.1.4](https://github.com/Codeinwp/hestia-pro/compare/v3.1.3...v3.1.4) (2024-02-27)
+- [Corrección] Mejorar estilo del editor TinyMCE
+- [Corrección] Bloque de salto de página no funcionando
+- [Corrección] Corregido el problema de word-break en la sección de comentarios
+- Mejor mostrar las características de la versión Pro
 
-### Bug Fixes
-- Fixed WPML compatibility with custom layouts
 
-### Improvements
-- Updated dependencies
-- Added NPS Survey
-- Preparation for future BF campaign
+##### [Versión 3.0.24](https://github.com/Codeinwp/hestia-pro/compare/v3.0.23...v3.0.24) (2022-09-28)
 
+- [Corrección] Corregir estilo roto del slider de rango 
+- [Corrección] Añadir notice de comentario esperando moderación
+- [Corrección] Corregir problema de carga de font awesome en página de búsqueda de WooCommerce
+- [Corrección] Mejorar bloque CSS inline
+- [Corrección] Compatibilidad con widgets de Elementor Pros
+- [Corrección] Mover el pie de página fuera del elemento <main>
+- [Corrección] Eliminar srcset de imágenes en la sección de Barra de Clientes
 
 
+##### [Versión 3.0.23](https://github.com/Codeinwp/hestia-pro/compare/v3.0.22...v3.0.23) (2022-07-01)
 
-##### [Version 3.1.3](https://github.com/Codeinwp/hestia-pro/compare/v3.1.2...v3.1.3) (2024-02-06)
+- [Corrección] Marcador de posición sobre texto en la caja de comentarios
+- [Corrección] Añadir los atributos srcset faltantes para imágenes en la página de inicio
+- Eliminar las plantillas de Gutenberg ya que la característica de Otter Blocks está obsoleta
+- A partir de 3.0.23 decidimos eliminar el control de copyright de la versión gratuita. Puedes continuar usándolo si retrocedes a 3.0.22 o puedes actualizar a pro, usando un descuento único del 50% usando el código de descuento HESTIABRANDING50. La promoción está disponible hasta el 8 de Julio.
 
-### Fixes
-- Enhanced security
-- Updated dependencies
-- Fixed loading of custom Font Awesome icons
 
+##### [Versión 3.0.22](https://github.com/Codeinwp/hestia-pro/compare/v3.0.21...v3.0.22) (2022-05-05)
 
+- [Corrección] Error al intentar crear un nuevo diseño personalizado
+- [Corrección] Problema de diseño para la sección de ribbon
+- [Corrección] Warning de PHP en el personalizador al verificar si los iconos están en uso
+- [Corrección] Efecto parallax no funcionando en navegadores Chrome y Edge
+- Actualizada la lista de plugins recomendados
 
 
-##### [Version 3.1.2](https://github.com/Codeinwp/hestia-pro/compare/v3.1.1...v3.1.2) (2024-02-01)
+##### [Versión 3.0.21](https://github.com/Codeinwp/hestia-pro/compare/v3.0.20...v3.0.21) (2022-02-03)
 
-### Fixes
-- Updated references from SendinBlue to Brevo 
-- Solved warning on checking styles 
-- Add undefined check for mutations of addViewCart
-- Enhanced Security
+- [Corrección] Falta el botón de mostrar hooks en la barra de administración
+- [Corrección] Error con Licenser.php que aparece en algunos casos
 
-### Improvements
-- Added CTA in Customizer
 
+##### [Versión 3.0.20](https://github.com/Codeinwp/hestia-pro/compare/v3.0.19...v3.0.20) (2021-12-14)
 
+- [Corrección] Error de undefined en el personalizador para controles de botón
+- [Corrección] Ocultar botón de editar en la sección Acerca de hasta que se configure una página de inicio
+- [Corrección] Conflicto con plugin Gutentor
+- [Corrección] Problemas de rendimiento con Diseños Personalizados y muchos usuarios
 
 
-##### [Version 3.1.1](https://github.com/Codeinwp/hestia-pro/compare/v3.1.0...v3.1.1) (2024-01-11)
+##### [Versión 3.0.19](https://github.com/Codeinwp/hestia-pro/compare/v3.0.18...v3.0.19) (2021-09-21)
 
-### Improvements
-- Updated dependencies
-- Updated Twitter to X icon
-- Upgrade to Font Awesome 6 version
+- [Corrección] Múltiples textdomains aparecen en el código de Hestia
 
-### Bug Fixes
-- Fixed string translation issue with WPML
-- Fix comma alignment and color in WoCommerce Category on Shop
-- Fixed gallery layout issue with the lightbox
-- Fixed mini cart counter issue
-- Fixed custom layout compatibility issue with Polylang
-- Fixed mega menu opening issue on screen resize
-- Fixed mutation events deprecation
-- Fixed compatibility issue with Otter block
 
+##### [Versión 3.0.18](https://github.com/Codeinwp/hestia-pro/compare/v3.0.17...v3.0.18) (2021-09-07)
 
-
-
-#### [Version 3.1.0](https://github.com/Codeinwp/hestia-pro/compare/v3.0.30...v3.1.0) (2023-08-29)
-
-- Improved The Onboarding Experience With A New Setup Wizard.
-- Added Header Customization Options: Display Menu On Mobile, Customize Cart Icon, And Transparent Header Support For Other Pages.
-- Introduced New Page Patterns.
-- Allowed Disabling Of Page Titles From Individual Page Options.
-- Added An Option To Display The Site Title Near The Logo.
-- Implemented Local Font Loading For Better Performance.
-- Added A Filter For No-Follow Links In The Clients Bar Section.
-
-
-
-
-##### [Version 3.0.30](https://github.com/Codeinwp/hestia-pro/compare/v3.0.29...v3.0.30) (2023-06-15)
-
-- Fix Lighthouse errors
-- Fix a stray HTML tag in Footer
-- Fix notice not disappearing
-- Fix PHP errors with PHP 8.1
-- Fix issue with Big Title section being locked under certain conditions
-
-
-
-
-##### [Version 3.0.29](https://github.com/Codeinwp/hestia-pro/compare/v3.0.28...v3.0.29) (2023-03-09)
-
-- Improve the release process
-
-
-
-
-##### [Version 3.0.28](https://github.com/Codeinwp/hestia-pro/compare/v3.0.27...v3.0.28) (2023-03-09)
-
-- [Fix] Conflict with the image optimizer plugin
-- [Fix] Logo translation with Polylang
-- [Fix] Scroll to top issue
-- [Fix] Frontpage section reordering
-
-
-
-
-##### [Version 3.0.27](https://github.com/Codeinwp/hestia-pro/compare/v3.0.26...v3.0.27) (2023-01-10)
-
-- [Fix] Big title background image issue
-
-
-
-
-##### [Version 3.0.26](https://github.com/Codeinwp/hestia-pro/compare/v3.0.25...v3.0.26) (2023-01-05)
-
-- [Feat] Filter related posts by Yoast primary category
-- [Fix] Big title section render issue
-- [Fix] Button Color Selector is not working
-- [Fix] SEO issues with explicit image width/height
-
-
-
-
-##### [Version 3.0.25](https://github.com/Codeinwp/hestia-pro/compare/v3.0.24...v3.0.25) (2022-12-20)
-
-- [Fix] Improve TinyMCE editor style
-- [Fix] Page break block not working
-- [Fix] Fixed the word-break issue in the comment section
-- Better showcase the features from the Pro version
-
-
-
-
-##### [Version 3.0.24](https://github.com/Codeinwp/hestia-pro/compare/v3.0.23...v3.0.24) (2022-09-28)
-
-- [Fix] Fix broken range slider style 
-- [Fix] Add comment awaiting moderation notice
-- [Fix] Fix font awesome loading issue on WooCommerce search page
-- [Fix] Improve inline CSS block
-- [Fix] Compatibility with Elementor Pros widgets
-- [Fix] Move the footer to outside the <main> element
-- [Fix] Remove srcset from images in the Clients bar section
-
-
-
-
-##### [Version 3.0.23](https://github.com/Codeinwp/hestia-pro/compare/v3.0.22...v3.0.23) (2022-07-01)
-
-- [Fix] Field placeholder over text in the comments box
-- [Fix] Add the missing srcset attributes for images on the front page
-- Remove the Gutenberg templates as the feature from Otter Blocks is deprecated
-- From 3.0.23 we decided to remove the copyright control from the free version. You can continue using it if you roll back to 3.0.22 or you can upgrade to pro, using a one-time 50% discount by using HESTIABRANDING50 discount code. The promotion is available until the 8th of July.
-
-
-
-
-##### [Version 3.0.22](https://github.com/Codeinwp/hestia-pro/compare/v3.0.21...v3.0.22) (2022-05-05)
-
-- [Fix] Error when trying to create a new custom layout
-- [Fix] Layout issue for the ribbon section
-- [Fix] PHP warning in the customizer when checking if icons are used
-- [Fix] Parallax effect not working in Chrome and Edge browsers
-- Updated the recommended plugin list
-
-
-
-
-##### [Version 3.0.21](https://github.com/Codeinwp/hestia-pro/compare/v3.0.20...v3.0.21) (2022-02-03)
-
-- [Fix] Show hooks button is missing from the admin bar
-- [Fix] Error with Licenser.php that appear in some cases
-
-
-
-
-##### [Version 3.0.20](https://github.com/Codeinwp/hestia-pro/compare/v3.0.19...v3.0.20) (2021-12-14)
-
-- [Fix] Undefined error in customizer for button controls
-- [Fix] Hide edit button in About section until a frontpage is set
-- [Fix] Conflict with Gutentor plugin
-- [Fix] Performance issues with Custom Layouts and many users
-
-
-
-
-##### [Version 3.0.19](https://github.com/Codeinwp/hestia-pro/compare/v3.0.18...v3.0.19) (2021-09-21)
-
-- [Fix] Multiple textdomains appear in Hestia's code
-
-
-
-
-##### [Version 3.0.18](https://github.com/Codeinwp/hestia-pro/compare/v3.0.17...v3.0.18) (2021-09-07)
-
-- [Fix] The Show
+- [Corrección] El Show
 
 ##### [Version 3.0.17](https://github.com/Codeinwp/hestia-pro/compare/v3.0.16...v3.0.17) (2021-07-21)
 
